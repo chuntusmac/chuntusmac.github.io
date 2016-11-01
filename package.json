@@ -1,0 +1,22 @@
+{
+  "name": "quoter",
+  "version": "1.0.0",
+  "description": "```In this chapter we're learning about Git and other\r development tools.```\r Text **bold text**\r * Bullet point.\r * Number list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuntusmac/quoter.git"
+  },
+  "author": "Chuntus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuntusmac/quoter/issues"
+  },
+  "homepage": "https://github.com/chuntusmac/quoter#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
